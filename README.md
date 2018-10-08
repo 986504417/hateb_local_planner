@@ -6,7 +6,9 @@ It implements a human-robot cooperative navigation planner that predicts traject
 a trajectory for robot that satisfies certain kinodynamic and social constraints.
 
 Details of the approach are discussed in
+- Khambhaita H., Alami R.: Viewing Robot Navigation in Human Environment as a Cooperative Activity, Proc. of the International Symposium on Robotics, Puerto Varas, Chile, December 11-14, 2017.
 - Khambhaita H., Alami R.: A Human-Robot Cooperative Navigation Planner, Proc. of the Companion of the 2017 ACM/IEEE International Conference on Human-Robot Interaction, Vienna, Austria, March 2017.
+- Khambhaita H., Alami R.: Assessing the Social Criteria for Human-Robot Collaborative Navigation: A Comparison of Human-Aware Navigation Planners, Proc. of the IEEE International Symposium on Robot and Human Interactive Communication, Lisbon, Portugal, August 28 - September 1, 2017.
 
 It uses a method called Timed Elastic Band for optimization purpose, which is discussed in
 - Rösmann C., Feiten W., Wösch T., Hoffmann F. and Bertram. T.: Trajectory modification considering dynamic constraints of autonomous robots. Proc. 7th German Conference on Robotics, Germany, Munich, May 2012, pp 74–79.
